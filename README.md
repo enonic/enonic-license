@@ -22,9 +22,9 @@ By using, copying, modifying, distributing, making available, or preparing deriv
 
 **(b)** Permitted Hosting: Notwithstanding the limitation in Section 3(a), You may host, manage, or operate the Software on behalf of a specific customer, client, or third party if at least one of the following is true:
 
-    Licensed Customer: The customer holds a valid commercial license, subscription, license key, or other entitlement issued or approved by Licensor; OR
+* Licensed Customer: The customer holds a valid commercial license, subscription, license key, or other entitlement issued or approved by Licensor; OR
 
-    Custom Projects: You operate the Software for the customer’s own specific use (such as their website, application, intranet, or internal business purpose) as part of Your broader consulting, development, or implementation services, and You do not offer the Software as a standalone, general-purpose cloud service.
+* Custom Projects: You operate the Software for the customer’s own specific use (such as their website, application, intranet, or internal business purpose) as part of Your broader consulting, development, or implementation services, and You do not offer the Software as a standalone, general-purpose cloud service.
 
 For clarity: Section 3(a) prohibits turning the Software into Your own competing service offering. Section 3(b) ensures You can always run it for any customer who has a commercial agreement with Enonic, or for any customer utilizing it for a bespoke digital project under Your management.
 
