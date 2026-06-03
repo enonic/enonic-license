@@ -16,13 +16,13 @@ By using, copying, modifying, distributing, making available, or preparing deriv
 
 **(c)** Premium Functionality: This License does not grant any right to use paid, premium, enterprise, AI, or otherwise license-restricted functionality except as authorized by Licensor through a valid license key, subscription, agreement, or other entitlement.
 
-# 3. Limitations on Hosted or Managed Services
+## 3. Limitations on Hosted or Managed Services
 
 You may not provide the Software, or substantially similar functionality based on the Software, to third parties as a hosted, managed, cloud, SaaS, PaaS, white-label, or service-provider offering where the Software itself forms a substantial part of the service being offered.
 
 This limitation applies whether the service is single-tenant or multi-tenant, self-service or manually provisioned, modified or unmodified, branded or white-labeled.
 
-# 4. Permitted Customer and Partner Hosting
+## 4. Permitted Customer and Partner Hosting
 
 You may host, manage, or operate the Software for a specific customer, client, or third party — including as their hosting or implementation partner — if all of the following are true:
 
@@ -34,7 +34,7 @@ You may host, manage, or operate the Software for a specific customer, client, o
 
 For clarity: Section 3 prohibits turning the Software into Your own service offering; this Section permits running it on behalf of an identified customer who controls and benefits from that specific deployment.
 
-# 5. Premium Features and Anti-Circumvention
+## 5. Premium Features and Anti-Circumvention
 
 The Software may contain license keys, feature flags, entitlement checks, or other technical measures that control access to paid, premium, enterprise, AI, or otherwise restricted functionality.
 
@@ -42,30 +42,30 @@ You may not bypass, disable, remove, alter, or circumvent such measures, or modi
 
 Possession of the Software, including source code, does not grant any right to use restricted functionality without such entitlement.
 
-# 6. Notices and Third-Party Components
+## 6. Notices and Third-Party Components
 
 If You distribute the Software or a modified version of the Software, You must include a copy of this License and retain applicable copyright, license, attribution, and trademark notices.
 
 The Software may include third-party components that are subject to separate license terms. Such components are licensed under their own terms, not under this License.
 
-# 7. Ownership and Trademarks
+## 7. Ownership and Trademarks
 
 This License does not grant permission to use the trade names, trademarks, service marks, logos, or product names of Licensor, except for reasonable and customary use in describing the origin of the Software.
 
 Licensor retains all rights, title, and interest in the Software originally provided by Licensor. You retain any rights You may have in modifications You create, subject to Licensor’s rights in the underlying Software and the terms of this License.
 
-# 8. Termination
+## 8. Termination
 
 If You violate this License, the permissions granted to You under this License terminate automatically.
 
 If You or Your organization assert in writing, in any litigation or formal claim, that the Software infringes or contributes to the infringement of any patent, all licenses granted to You under this License, including the patent license in Section 2, terminate automatically.
 
-# 9. Disclaimer of Warranty and Limitation of Liability
+## 9. Disclaimer of Warranty and Limitation of Liability
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NONINFRINGEMENT.
 
 TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-# 10. Separate Agreements
+## 10. Separate Agreements
 
 A separate written agreement with Licensor may grant additional rights or exceptions, and controls over this License to the extent of any conflict.
